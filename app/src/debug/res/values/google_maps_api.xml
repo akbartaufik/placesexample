@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A9:55:EE:3B:91:CA:FC:54:26:00:13:DE:81:69:63:82:8B:4F:CE:43%3Bcom.opika.placeautocomplete
+
+    You can also add your credentials to an existing key, using this line:
+    A9:55:EE:3B:91:CA:FC:54:26:00:13:DE:81:69:63:82:8B:4F:CE:43;com.opika.placeautocomplete
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA77Ev_PMkdQVEEKgqYA_bcP3TtSQhPKVg</string>
+</resources>
